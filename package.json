@@ -1,6 +1,6 @@
 {
   "name": "@josebarrios/contact-point",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A contact point—for example, a Customer Complaints department.",
   "main": "index.js",
   "scripts": {
